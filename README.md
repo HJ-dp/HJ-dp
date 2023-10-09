@@ -22,9 +22,10 @@
 
 [![코드트리|실력진단-skwo777](https://banner.codetree.ai/v1/banner/skwo777)](https://www.codetree.ai/profiles/skwo777)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-dp&layout=compact)](https://github.com/HJ-dp/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-dp&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-dp&layout=compact)](https://github.com/HJ-dp/github-readme-stats)
 </div>
 
 <!--
