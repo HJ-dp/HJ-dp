@@ -13,7 +13,18 @@
 #Back-end Stack
 
 <img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skwo777)](https://solved.ac/skwo777)
+
+[![코드트리|실력진단-skwo777](https://banner.codetree.ai/v1/banner/skwo777)](https://www.codetree.ai/profiles/skwo777)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-dp&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-dp&layout=compact)](https://github.com/HJ-dp/github-readme-stats)
+</div>
+
 <!--
 **HJ-dp/HJ-dp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,13 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skwo777)](https://solved.ac/skwo777)
-
-[![코드트리|실력진단-skwo777](https://banner.codetree.ai/v1/banner/skwo777)](https://www.codetree.ai/profiles/skwo777)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-dp&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-dp&layout=compact)](https://github.com/HJ-dp/github-readme-stats)
-</div>
