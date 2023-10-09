@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={skwo777})](https://solved.ac/{skwo777})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skwo777)](https://solved.ac/skwo777)
 [![코드트리|실력진단-skwo777](https://banner.codetree.ai/v1/banner/skwo777)](https://www.codetree.ai/profiles/skwo777)
